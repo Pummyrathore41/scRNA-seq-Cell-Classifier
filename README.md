@@ -87,4 +87,3 @@ After running, check the `results/` folder for:
 | `confusion_matrix.png` | Random Forest confusion matrix on test set |
 | `feature_importance.png` | Top 20 important PCA components |
 
-### Sample Console Output
