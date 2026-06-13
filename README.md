@@ -65,7 +65,7 @@ deactivate
 Run the full pipeline (single command runs all 5 stages):
 
 ```bash
-python pipeline.py
+python m.py
 ```
 
 This will:
